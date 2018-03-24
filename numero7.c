@@ -3,8 +3,8 @@
 
 int main(void) 
 { 
-double N = 3.31e-8 * 2.01e-7; 
-double D = 7.16e-6 + 2.01e-8; 
-printf("Ответ деления %g\n", N / D); 
+double n = 3.31e-8 * 2.01e-7; 
+double d = 7.16e-6 + 2.01e-8; 
+printf("Ответ деления %g\n", n / d); 
 return 0; 
 }
